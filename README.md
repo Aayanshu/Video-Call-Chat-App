@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -53,3 +54,7 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# Video-Call-Chat-App
+"Streamify Video Calls is a full-stack web application enabling real-time video communication and chat features. It includes a Node.js backend for authentication, user management, and streaming support."
+>>>>>>> 97cd558f9a1be0df011e0743f4cc43f4e61c7ec1
